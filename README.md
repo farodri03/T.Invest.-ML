@@ -14,11 +14,11 @@
 3. **Activa el entorno virtual**:
     - En Windows:
         ```sh
-        venv\Scripts\activate
+        .env\Scripts\activate
         ```
     - En macOS y Linux:
         ```sh
-        source venv/bin/activate
+        source .env/bin/activate
         ```
 
 4. **Instala las dependencias**:
