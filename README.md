@@ -6,7 +6,7 @@
     cd tu-repositorio
     ```
 
-2. **Crea un entorno virtual** (opcional pero recomendado):
+2. **Crea un entorno virtual**:
     ```sh
     python -m venv venv
     ```
