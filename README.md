@@ -8,7 +8,7 @@
 
 2. **Crea un entorno virtual**:
     ```sh
-    python -m venv venv
+    python -m venv .env
     ```
 
 3. **Activa el entorno virtual**:
