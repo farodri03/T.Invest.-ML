@@ -57,6 +57,7 @@ requests
 rich
 scikit-learn
 scipy
+seaborn
 setuptools
 six
 stack-data
